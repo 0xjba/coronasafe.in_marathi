@@ -1,14 +1,15 @@
 ---
-description: Home Quarantine Guidelines of COVID-19 are given below.
+description: कोविडसाठी होम कॉरंटाईन मार्गदर्शन खाली दिली आहेत.
 ---
 
 
-# Introduction 
-*	Persons and household members should be educated about personal hygiene, basic IPC measures and how to care for the member of the family suspected of having COVID-19 disease as safely as possible to prevent the infection from spreading to household contacts.
-*	The persons and the family should be provided with ongoing support and education, and monitoring should continue for the duration of home care.
+# प्रस्तावना 
+*	व्यक्ती आणि घरातील सदस्यांना वैयक्तिक स्वच्छता,संसर्ग प्रतिबंध आणि नियंत्रण आणि घरातील संपर्कात संक्रमण होण्यापासून रोखण्यासाठी कोविड-१९ असल्याचा संशय असणारी कुटुंबातील सदस्याची काळजी कशी घ्यावी बद्दल शिक्षण दिले पाहिजे.
 
-# Recommendations 
-*	Persons and families should adhere to the following recommendations:-
+*	त्या व्यक्तीस आणि कुटूंबाला चालू समर्थन आणि शिक्षण पुरवावे , आणि होम कॉरंटाईन ठेवण्याच्या कालावधीसाठी देखरेख चालू ठेवली पाहिजे.
+
+# शिफारसी 
+*	व्यक्ती आणि कुटुंबाने खालील शिफारसींचे पालन केले पाहिजे:-
     *	Place the person in a well-ventilated single room (i.e . with open windows and an open door)
     *	Limit the movement of the person in the house and minimize shared space. Ensure that shared spaces (e.g., kitchen, bathroom) are well ventilated (e.g., keep windows open).
     *	Household members should stay in a different room or, if that is not possible. maintain a distance of at least 1 mt from the ill person.
