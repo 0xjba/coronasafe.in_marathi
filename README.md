@@ -1,34 +1,49 @@
 ---
-description: >-
-  A verified crowd-sourced guide to staying safe in Coronavirus disease
-  (COVID-19) outbreak.
+description: कोरोनाव्हायरस रोग प्रादुर्भावात सुरक्षित राहण्यासाठी एक सत्यापित सार्वजनिकरित्या-स्त्रोत  मार्गदर्शक 
 ---
 
-# Corona Safe
+# कोरोना सुरक्षा
 
 ![A crowd-sourced guide to staying safe in Coronavirus disease \(COVID-19\) outbreak.](.gitbook/assets/coronasafe-logo.png)
 
-Coronaviruses refer to the family of viruses that are known to cause respiratory infections in both animals and humans. There are seven coronaviruses that are currently known to affect humans, out of which four are commonly found across the globe and cause mild cold like symptoms only. The remaining three are known to cause severe diseases such as [Middle East Respiratory Syndrome, or MERS caused by MERS-CoV](https://www.who.int/emergencies/mers-cov/en/), [Severe Acute Respiratory Syndrome caused by SARS-CoV](https://www.who.int/csr/sars/en/) and finally [Coronavirus Disease 2019 caused by SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+कोरोनाव्हायरस व्हायरसच्या कुटूंबाचा संदर्भ देतात जे प्राणी आणि मानवांमध्ये श्वसन संसर्गास कारणीभूत असतात. असे सात कोरोनाव्हायरस आहेत जे सध्या मानवांना प्रभावित करतात, त्यापैकी चार सामान्यत: जगभरात आढळतात आणि केवळ लक्षणे सारख्या सौम्य सर्दी कारणीभूत असतात. उर्वरित तीन गंभीर रोगांना कारणीभूत आहेत जसे की [मध्य पूर्व श्वसन लक्षणं
+, किंवा एमईआरएस-सीओव्हीमुळे उद्भवणारे, एसएआरएस-कोव्ही](https://www.who.int/emergencies/mers-cov/en/), [
+एसएआरएस-सीओव्हीमुळे होणारे तीव्र श्वसन लक्षणं
+](https://www.who.int/csr/sars/en/) आणि शेवटी [एसएआरएस-सीओव्हीमुळे होणारे कोरोनाव्हायरस २०१९](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) is a novel coronavirus that has never been previously identified in humans. It is zoonotic in nature, which means it can be transmitted from animal to human, and human to human interactions. It was first [reported](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) from Wuhan City on 31 December 2019 in China. The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea.
+[कोविड-१९](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) ही एक नोवेल आहे जी यापूर्वी मानवांमध्ये कधी ओळखली गेली नव्हती. 
+हे निसर्गात झुनोटिक आहे, याचा अर्थ असा की ते प्राण्यांपासून मनुष्यात आणि मानवांमध्ये मानवी संप्रेषणात प्रसारित केले जाऊ शकते. चीनमध्ये 31 डिसेंबर 2019 रोजी वुहान सिटी येथून प्रथम याची [नोंद](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) झाली. कोविडची सर्वात सामान्य लक्षणे म्हणजे ताप, थकवा आणि कोरडा खोकला. काही रुग्णांना वेदना, अनुनासिक रक्तसंचय, वाहणारे नाक, घसा खवखवणे किंवा अतिसार असू शकतो.
 
-Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical as per the studies.
+सुमारे 80% संक्रमित केवळ सौम्य लक्षणे दर्शवतात आणि मानक वैद्यकीय लक्ष देऊन बरे होतात. वृद्ध लोक आणि मूलभूत किंवा पूर्वीची वैद्यकीय स्थिती असलेले लोक गंभीर लक्षणे विकसित करतात आणि वैद्यकीय हस्तक्षेपाशिवाय प्राणघातक असल्याचे सिद्ध होऊ शकते.
 
-The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
+
+विषाणूचा जागतिक स्तरावर 100,000 हून अधिक लोकांवर परिणाम झाला आहे आणि 3000 हून अधिक लोक मृत्यूमुखी पडले आहेत. डब्ल्यूएचओने ग्लोबल लेव्हलमध्ये खूप हाय रिस्कचा दर्जा दिला आहे.
 
 {% hint style="danger" %}
-This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.
+हे मार्गदर्शक अद्याप वर्क इन प्रगती आहे. काही विभाग पूर्ण होईपर्यंत आम्ही संदर्भासाठी अधिकृत दुवे देत आहोत. मार्गदर्शक अद्यतनित होईपर्यंत आपल्याला त्या सूचनांचे अनुसरण करावे लागेल.
 {% endhint %}
 
-## Why does this guide exist ?
+## भाषांतर
 
-> **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
+हे मार्गदर्शक सध्या प्रादेशिक भाषांमध्ये अनुवादित केले जात आहे, स्थानिक सामग्रीसाठी संबंधित मार्गदर्शक तपासा.
 
-COVID-19 is a novel corona virus, which means there isn't that much amount of information and public awareness about it. Most of the information is spread across a lot of independent governmental and non-governmental websites. There is also a lot of fake news and incorrect information circulating on Social Media about COVID-19 many of them life threatening.
+* [https://malayalam.coronasafe.network/](https://malayalam.coronasafe.network/)
+* [https://tamil.coronasafe.network/](https://tamil.coronasafe.network/)
+* [https://hindi.coronasafe.in/](https://hindi.coronasafe.in/)
+* [https://kannada.coronasafe.in/](https://kannada.coronasafe.in/)
+* [https://telugu.coronasafe.network/](https://telugu.coronasafe.network/)
+* [https://marathi.coronasafe.network/](https://marathi.coronasafe.network/)
 
-This guide aggregates all that information into a single hub and distills into a user friendly format. This guide is also localized into many regional and national languages for a wider audience. We are always looking for contributors, you can [help out here](https://www.coronasafe.in/contribute).
 
-## **Contents**
+## हा मार्गदर्शन का अस्तित्वात आहे?
+
+> **या मार्गदर्शकाचा हेतू प्रतिबंधात्मक उपाय, विषाणूच्या ताणाविषयीची माहिती आणि अधिकृत स्रोतांविषयी माहिती संकलित करण्यासाठी एक केंद्र आहे. या सूचना विविध अधिकृत स्रोतांकडून संकलित केल्या आहेत.**
+
+कोविड-१९ ही एक नोवेल कोरोना विषाणू आहे, ज्याचा अर्थ असा नाही की त्याबद्दल इतकी माहिती आणि जनजागृती आहे. बरीचशी माहिती अनेक स्वतंत्र सरकारी आणि स्वयंसेवी वेबसाइटवर पसरलेली असते. कोविड-१९ बद्दल सोशल मीडियावर अनेक बनावट बातम्या आणि चुकीच्या माहिती प्रसारित झाल्या आहेत त्यापैकी अनेक जणांना जीवघेणा धोका आहे.
+
+हे मार्गदर्शक सर्व माहिती एकाच केंद्रस्थान-मध्ये एकत्रित करते आणि वापरकर्त्यास अनुकूल स्वरूपात टाकते. हे मार्गदर्शक विस्तृत प्रेक्षकांसाठी अनेक प्रादेशिक आणि राष्ट्रीय भाषांमध्ये देखील भाषांतरित आहे. आम्ही नेहमीच योगदानकर्ते शोधत असतो, आपण [येथे मदत](https://www.coronasafe.in/contribute) करू शकतो.
+
+## **सामग्री**
 
 {% page-ref page="precautions.md" %}
 

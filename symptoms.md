@@ -1,20 +1,21 @@
 ---
-description: Describes the major symptoms of COVID-19.
+description: कोविड-१९ ची प्रमुख लक्षणे वर्णन करतात.
 ---
 
-# Symptoms
+# लक्षणे
 
-The most common symptoms of COVID-19 are fever, tiredness, and dry cough. They are usually mild and begin gradually. They appear around [2 - 14 days](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html) with average symptoms showing up after 5 days of being infected.
+कोविड-१९ ची सर्वात सामान्य लक्षणे म्हणजे ताप, थकवा आणि कोरडा खोकला. ते सहसा सौम्य असतात आणि हळूहळू सुरू होतात. ते सुमारे [२ - १४ दिवस](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html) दिसून येतात संसर्ग झाल्यानंतर ५ दिवसांनंतर सरासरी लक्षणे दिसून येतात.
 
-Some symptoms appear less common than others. The major symptoms of COVID-19 based on how [common](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) it appears in the reported cases are 
+काही लक्षणे इतरांपेक्षा कमी सामान्य दिसतात. कोविड-१९ ची मुख्य लक्षणे कशी [सामान्य](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) आहे यावर आधारित आहेत हे नोंदवलेल्या प्रकरणांमध्ये दिसून येते 
 
-* Fever 
-* Dry Cough 
-* Fatigue 
-* Sputum Production 
-* Shortness of Breath 
-* Muscle Pain or Joint Pain
-* Sore Throat 
+* ताप
+* कोरडा खोकला
+* थकवा 
+* थुंकी उत्पादन 
+* धाप लागणे
+* स्नायू दुखणे किंवा सांधे दुखी
+* घसा खवखवणे 
 
-Most of the symptoms overlap with those of flu and common cold. COVID-19 [rarely produces a runny nose.](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19)
+
+बहुतेक लक्षणे फ्लू आणि सामान्य सर्दींसह ओव्हरलॅप होतात. कोविड-१९ मुळे [कधीतरी नाकाचे वाहने होतात](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19)
 
