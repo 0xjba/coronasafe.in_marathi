@@ -82,92 +82,92 @@ description: कोविड-१९ बद्दल सामान्य मि
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbusters-27.tmb-1920v.png?sfvrsn=d17bc6bb_1\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbusters-27.tmb-1920v.png?sfvrsn=d17bc6bb_1_1#)
 
 
-## Can an ultraviolet disinfection lamp kill the new coronavirus?
+## यूवी निर्जंतुकीकरण नवीन कोरोनाव्हायरस मारू शकतो??
 
-**नाही,** UV lamps should not be used to sterilize hands or other areas of skin as UV radiation can cause skin irritation.
+**नाही,** हात किंवा त्वचेच्या इतर भागात निर्जंतुकीकरण करण्यासाठी यूवी दिवे वापरु नये कारण अतिनील किरणोत्सर्गामुळे त्वचेचा त्रास होऊ शकतो.
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbusters-31.tmb-1920v.png?sfvrsn=e5989655_1\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbusters-31.tmb-1920v.png?sfvrsn=e5989655_1_1#)
 
 
-## How effective are thermal scanners in detecting people infected with the new coronavirus?
+## नवीन कोरोनाव्हायरस संक्रमित लोकांना शोधण्यासाठी थर्मल स्कॅनर किती प्रभावी आहेत?
 
-Thermal scanners are effective in detecting people who have developed a fever (i.e. have a higher than normal body temperature) because of infection with the new coronavirus.
+नवीन कोरोनाव्हायरसच्या संसर्गामुळे ज्यांना ताप आला आहे (म्हणजेच शरीराच्या तापमानापेक्षा सामान्य तापमान जास्त आहे) शोधण्यासाठी थर्मल स्कॅनर प्रभावी आहेत.
 
 {% hint style="info" %}
-However, they cannot detect people who are infected but are not yet sick with fever. This is because it takes between 2 and 10 days before people who are infected become sick and develop a fever.
+तथापि, ते संक्रमित अशा लोकांना शोधू शकत नाहीत परंतु अद्याप तापाने आजारी नाहीत. याचे कारण असे आहे की संक्रमित लोक आजारी पडतात आणि ताप येण्यापूर्वी 2 ते 10 दिवसांचा कालावधी लागतो.
 {% endhint %}
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbusters-25.tmb-1920v.png?sfvrsn=d3bf829c_1\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbusters-25.tmb-1920v.png?sfvrsn=d3bf829c_1_1#)
 
 
-## Can spraying alcohol or chlorine all over your body kill the new coronavirus?
+## आपल्या शरीरावर अल्कोहोल किंवा क्लोरीनची फवारणी केल्यास नवीन कोरोनाव्हायरस नष्ट होईल?
 
-**नाही,** Spraying alcohol or chlorine all over your body will not kill viruses that have already entered your body. Spraying such substances can be harmful to clothes or mucous membranes (i.e. eyes, mouth).
+**नाही,** आपल्या शरीरावर अल्कोहोल किंवा क्लोरीनची फवारणी केल्याने आपल्या शरीरात आधीच प्रवेश केलेले व्हायरस नष्ट होणार नाहीत. अशा पदार्थांची फवारणी करणे कपड्यांना किंवा श्लेष्मल त्वचेसाठी (म्हणजेच डोळे, तोंड) हानिकारक असू शकते.
 
 {% hint style="info" %}
-Be aware that both alcohol and chlorine can be useful to disinfect surfaces, but they need to be used under appropriate recommendations.
+जागरूक रहा की अल्कोहोल आणि क्लोरीन दोन्ही पृष्ठभाग निर्जंतुक करण्यासाठी उपयुक्त ठरू शकतात, परंतु त्यांचा वापर योग्य शिफारसींमध्ये करणे आवश्यक आहे.
 {% endhint %}
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbusters-33.tmb-1920v.png?sfvrsn=47bfd0aa_1\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbusters-33.tmb-1920v.png?sfvrsn=47bfd0aa_1_1#)
 
 
-## Do vaccines against pneumonia protect you against the new coronavirus?
+## न्यूमोनियाविरूद्ध औषधे नवीन कोरोनाव्हायरसपासून संरक्षण करतात?
 
-**नाही,** Vaccines against pneumonia, such as pneumococcal vaccine and Haemophilus influenza type B (Hib) vaccine, do not provide protection against the new coronavirus.
+**नाही,** न्यूमोनियाविरूद्ध औषधे, जसे की न्यूमोकोकल लस आणि हेमोफिलस इन्फ्लूएंझा प्रकार बी (एचआयबी) लस नवीन कोरोनाव्हायरसपासून संरक्षण देत नाही.
 
 {% hint style="info" %}
-The virus is so new and different that it needs its own vaccine. Researchers are trying to develop a vaccine against 2019-nCoV, and WHO is supporting their efforts. Although these vaccines are not effective against 2019-nCoV, vaccination against respiratory illnesses is highly recommended to protect your health.
+व्हायरस इतका नवीन आणि वेगळा आहे की त्याला स्वतःच्या औषधाची आवश्यकता आहे. संशोधक कोविड विरुद्ध औषध विकसित करण्याचा प्रयत्न करीत आहेत आणि डब्ल्यूएचओ त्यांच्या प्रयत्नांना पाठिंबा देत आहे. कोविड विरूद्ध ही औषधे प्रभावी नसली तरी आपल्या आरोग्याचे रक्षण करण्यासाठी श्वसनाच्या आजारांविरूद्ध लसीकरण करण्याची अत्यंत शिफारस केली जाते.
 {% endhint %}
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/11.tmb-1920v.png?sfvrsn=97f2a51e_1\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/11.tmb-1920v.png?sfvrsn=97f2a51e_1_1#)
 
 
-## Can regularly rinsing your nose with saline help prevent infection with the new coronavirus?
+## खारटपणाने नियमितपणे आपले नाक स्वच्छ धुवून नवीन कोरोनाव्हायरसच्या संसर्गास प्रतिबंध करण्यास मदत केली जाऊ शकते?
 
-**नाही,** There is no evidence that regularly rinsing the nose with saline has protected people from infection with the new coronavirus. 
+**नाही,** नियमितपणे खारटपणाने नाक स्वच्छ धुण्यामुळे लोकांना नवीन कोरोनाव्हायरसच्या संसर्गापासून वाचविल्याचा कोणताही पुरावा नाही. 
 
 {% hint style="info" %}
-There is some limited evidence that regularly rinsing nose with saline can help people recover more quickly from the common cold. However, regularly rinsing the nose has not been shown to prevent respiratory infections.
+असे काही मर्यादित पुरावे आहेत की नियमितपणे खारट्याने नाक स्वच्छ धुण्यामुळे लोकांना सामान्य सर्दीतून लवकर बरे होण्यास मदत होते. तथापि, श्वसन संक्रमण रोखण्यासाठी नियमितपणे नाक स्वच्छ धुवायला दर्शविलेले नाही.
 {% endhint %}
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/23.tmb-1920v.png?sfvrsn=c65dad38_2\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/23.tmb-1920v.png?sfvrsn=c65dad38_2_1#)
 
 
-## Can eating garlic help prevent infection with the new coronavirus?
+## लसूण खाण्यामुळे नवीन कोरोनाव्हायरसच्या संसर्गास प्रतिबंध होऊ शकतो?
 
-Garlic is a healthy food that may have some antimicrobial properties. However, there is no evidence from the current outbreak that eating garlic has protected people from the new coronavirus.
+लसूण हे एक निरोगी अन्न आहे ज्यात काही प्रतिजैविक गुणधर्म असू शकतात. तथापि, लसूण खाण्यामुळे लोकांना नवीन कोरोनाव्हायरसपासून संरक्षण मिळाले आहे याचा कोणताही पुरावा आतापर्यंत उपलब्ध नाही.
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/19.tmb-1920v.png?sfvrsn=52adfc93_2\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/19.tmb-1920v.png?sfvrsn=52adfc93_2_1#)
 
 
-## Does the new coronavirus affect older people, or are younger people also susceptible?
+## नवीन कोरोनाव्हायरस वृद्ध लोकांवर परिणाम करते किंवा तरुण लोकही संवेदनाक्षम असतात?
 
-People of all ages can be infected by the new coronavirus (2019-nCoV). Older people, and people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear to be more vulnerable to becoming severely ill with the virus. 
+सर्व वयोगटातील लोकांना नवीन कोरोनाव्हायरस (कोविड) द्वारे संसर्ग होऊ शकतो. वृद्ध लोक आणि पूर्वी अस्तित्त्वात असलेल्या वैद्यकीय परिस्थिती (जसे दमा, मधुमेह, हृदयविकार) ज्यांना विषाणूची लागण होण्याची तीव्रता जास्त दिसते आहे.
 
 {% hint style="info" %}
-WHO advises people of all ages to take steps to protect themselves from the virus, for example by following good hand hygiene and good respiratory hygiene. 
+डब्ल्यूएचओ सर्व वयोगटातील लोकांना विषाणूंपासून बचाव करण्यासाठी पावले उचलायला सल्ला देते, उदाहरणार्थ उत्तम हाताने स्वच्छता व श्वसनाच्या चांगल्या स्वच्छतेचे अनुसरण करून. 
 {% end hint %}
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-2.tmb-1920v.png?sfvrsn=635d24e5_2\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-2.tmb-1920v.png?sfvrsn=635d24e5_2_1#)
 
 
-## Are antibiotics effective in preventing and treating the new coronavirus?
+## नवीन कोरोनाव्हायरस प्रतिबंधित आणि उपचार करण्यात प्रतिजैविक प्रभावी आहेत?
 
-**नाही,** antibiotics do not work against viruses, only bacteria. 
+**नाही,** प्रतिजैविक केवळ विषाणूविरूद्ध कार्य करत नाहीत. 
 
 {% hint style="info" %}
-The new coronavirus (2019-nCoV) is a virus and, therefore, antibiotics should not be used as a means of prevention or treatment. However, if you are hospitalized for the 2019-nCoV, you may receive antibiotics because bacterial co-infection is possible. 
+नवीन कोरोनाव्हायरस (कोविड) हा एक विषाणू आहे आणि म्हणूनच, प्रतिजैविकांना प्रतिबंध किंवा उपचाराच्या माध्यम म्हणून वापरु नये. तथापि, आपण कोविडसाठी इस्पितळात घेतल्यास आपणास प्रतिजैविक मिळू शकेल कारण बॅक्टेरियाचा संसर्ग संभव आहे. 
 {% end hint %}
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-3.tmb-1920v.png?sfvrsn=10657e42_2\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/mythbuster-3.tmb-1920v.png?sfvrsn=10657e42_2_1#)
 
 
-## Are there any specific medicines to prevent or treat the new coronavirus?
+## नवीन कोरोनाव्हायरस रोखण्यासाठी किंवा उपचार करण्यासाठी काही विशिष्ट औषध आहेत?
 
-To date, there is no specific medicine recommended to prevent or treat the new coronavirus (2019-nCoV).
+आजपर्यंत, नवीन कोरोनाव्हायरस (कोविड) टाळण्यासाठी किंवा त्यावर उपचार करण्यासाठी कोणतीही विशिष्ट औषधाची शिफारस केलेली नाही.
 
 {% hint style="info" %}
-However, those infected with the virus should receive appropriate care to relieve and treat symptoms, and those with severe illness should receive optimized supportive care. Some specific treatments are under investigation, and will be tested through clinical trials. WHO is helping to accelerate research and development efforts with a range or partners. 
+तथापि, विषाणूचा संसर्ग झालेल्यांनी लक्षणे दूर करण्यासाठी आणि त्यांच्या उपचारांसाठी योग्य ती काळजी घेतली पाहिजे आणि गंभीर आजार असलेल्यांना अनुकूलित सहाय्यक काळजी घ्यावी. काही विशिष्ट उपचारांची तपासणी चालू आहे आणि क्लिनिकल चाचण्याद्वारे त्याची चाचणी केली जाईल. डब्ल्यूएचओ श्रेणी किंवा भागीदारांसह संशोधन आणि विकास प्रयत्नांना गती देण्यास मदत करीत आहे. 
 {% end hint %}
 
 स्त्रोत : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbuster-4.tmb-1920v.png?sfvrsn=e163bada_2\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbuster-4.tmb-1920v.png?sfvrsn=e163bada_2_1#)
