@@ -2,31 +2,30 @@
 description: How to contribute to make this guide better.
 ---
 
-# Contribute
+# योगदान द्या
 
 This is a crowd sourced guide and is meant to be always updated with the latest development in COVID-19. For that we need help from awesome contributors and volunteers.
 
 ## Using Github \(If you are not a developer\) <a id="using-github"></a>
 
-#### 1. Sigin up at [https://github.com/](https://github.com/)
+### 1. Sigin up at [https://github.com/](https://github.com/)
 
-#### 2. Visit coronasafe repository 
+### 2. Visit coronasafe repository
 
-A repository is where we keep the file.   
+A repository is where we keep the file.  
 You can view it by visiting [https://github.com/coronasafe/coronasafe.in](https://github.com/coronasafe/ml.coronasafe)
 
-![](.gitbook/assets/git1.png)
+![](https://github.com/coronasafe/marathi/tree/6c231389af589f35a120322c764e575875f6ecca/.gitbook/assets/git1.png)
 
-#### 3. Find the file you want to Update 
+### 3. Find the file you want to Update
 
-  
 Each file in the repository is an article in corona safe. You can find the file you are looking for by searching it. Example: If i want to update FAQ, I can search FAQ on the top left bar
 
-![](.gitbook/assets/git-2.png)
+![](https://github.com/coronasafe/marathi/tree/6c231389af589f35a120322c764e575875f6ecca/.gitbook/assets/git-2.png)
 
-Find the file you want to change and update the file. Follow this content [https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) 
+Find the file you want to change and update the file. Follow this content [https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository)
 
-If you are stuck. Join our slack channel [http://slack.coronasafe.in/](http://slack.coronasafe.in/) and ask for help. 
+If you are stuck. Join our slack channel [http://slack.coronasafe.in/](http://slack.coronasafe.in/) and ask for help.
 
 ## Forking the Repository <a id="using-github"></a>
 

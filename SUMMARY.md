@@ -1,14 +1,14 @@
 # Table of contents
 
-* [Corona Safe](README.md)
-* [Precautions and Preventive Measures](precautions.md)
-* [Symptoms](symptoms.md)
-* [Old People and People with Medical Issues](old-and-people-with-medical-issues.md)
-* [Health Advisory Guidelines by Kerala Government](health advisories by kerala government.md)
-* [Guidelines for Home Quarantine](Home quarantine guidelines.md)
-* [Myths and Fake News](myths-and-fake-news.md)
-* [FAQ](faq.md)
-* [Contribute](contribute.md)
+* [कोरोना सुरक्षा](README.md)
+* [खबरदारी आणि प्रतिबंधात्मक उपाय](precautions.md)
+* [लक्षणे](symptoms.md)
+* [वृद्ध लोक आणि वैद्यकीय समस्या असलेले लोक](old-and-people-with-medical-issues.md)
+* [केरळ सरकारची आरोग्य सल्लागार मार्गदर्शक तत्त्वे](health-advisories-by-kerala-government.md)
+* [होम क्वॉरेंटाइन ठेवण्याचे मार्गदर्शन](home-quarantine-guidelines.md)
+* [मिथक आणि बनावट बातम्या](myths-and-fake-news.md)
+* [सतत विचारले जाणारे प्रश्न](faq.md)
+* [योगदान द्या](contribute.md)
 
 ## Actions to take when <a id="action"></a>
 
